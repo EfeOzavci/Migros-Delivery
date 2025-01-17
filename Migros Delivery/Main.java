@@ -9,9 +9,9 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /**
- * @author: Muhammed Efe Ozavci
- * @version: 1.0
- * Migros Delivery using Ant Colony Optimization: This program finds the quickest delivery route of a Migros delivery car.
+ * @author Efe Özavcı
+ * @version 1.0
+ * @MigrosDelivery This program finds the quickest delivery route of a Migros delivery car.
  * There is a Migros store, denoted by the orange circle, and several houses, denoted by the gray circles.
  * Each house places an order from Migros. The delivery car visits each house only once and return to Migros.
  * The user can prefer two solution methods. The Brute-Force method and the Ant Colony Optimization method.
@@ -19,7 +19,7 @@ import java.io.IOException;
  */
 
 
-public class MuhammedEfeOzavci {
+public class Main {
 
     public static void main(String[] args) throws IOException {
 
